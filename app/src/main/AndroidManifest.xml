@@ -16,6 +16,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PrincipalPersona"
+            android:label="@string/title_activity_principal_persona"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PrincipalPoliza"
+            android:label="@string/title_activity_principal_poliza"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Reportes"></activity>
     </application>
 
 </manifest>

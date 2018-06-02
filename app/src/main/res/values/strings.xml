@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Seguros</string>
+    <string name="title_activity_principal2">Principal2</string>
+    <string name="title_activity_principal_persona">PrincipalPersona</string>
+    <string name="title_activity_principal_poliza">PrincipalPoliza</string>
+
+    <string name="principal_persona">Personas</string>
+    <string name="principal_poliza">Polizas</string>
+    <string name="reporte">Reporte</string>
+
+    <string-array name="opciones_Principal">
+        <item>@string/principal_persona</item>
+        <item>@string/principal_poliza</item>
+        <item>@string/reporte</item>
+    </string-array>
 </resources>
