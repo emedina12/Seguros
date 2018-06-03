@@ -24,7 +24,17 @@
             android:name=".PrincipalPoliza"
             android:label="@string/title_activity_principal_poliza"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".Reportes"></activity>
+        <activity android:name=".Reportes" />
+        <activity android:name=".CrearPersona" />
+        <activity android:name=".CrearPoliza" />
+        <activity
+            android:name=".DetallePersona"
+            android:label="@string/title_activity_detalle_persona"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DetallePoliza"
+            android:label="@string/title_activity_detalle_poliza"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

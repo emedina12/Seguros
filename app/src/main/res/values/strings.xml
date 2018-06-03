@@ -13,4 +13,70 @@
         <item>@string/principal_poliza</item>
         <item>@string/reporte</item>
     </string-array>
+
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+
+
+    <string-array name="opciones_sexo">
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </string-array>
+
+    <string name="berlinas">Berlinas</string>
+    <string name="camioneta">Camioneta</string>
+    <string name="furgoneta">Furgoneta</string>
+    <string name="Microcoche">Microcoche</string>
+
+    <string-array name="opciones_tipocarro">
+        <item>@string/berlinas</item>
+        <item>@string/camioneta</item>
+        <item>@string/furgoneta</item>
+        <item>@string/Microcoche</item>
+    </string-array>
+
+    <string name="importado">Importado</string>
+    <string name="froonterizado">Fronterizado</string>
+    <string name="regularizado">Regularizado</string>
+    <string name="residente">Residente</string>
+
+    <string-array name="opciones_clase">
+        <item>@string/importado</item>
+        <item>@string/froonterizado</item>
+        <item>@string/regularizado</item>
+        <item>@string/residente</item>
+    </string-array>
+
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="crear_persona">Crear Persona</string>
+    <string name="sexo">Sexo</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="cedula">Cédula</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="direccion">Dirección</string>
+    <string name="telefono">Teléfono</string>
+    <string name="Email">Correo Electrónico</string>
+    <string name="crear_poliza">Crear Póliza</string>
+    <string name="tipo_de_carro">Tipo de Carro</string>
+    <string name="numero_poliza">Numero de Póliza</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="clase">Clase</string>
+    <string name="blindaje">Blindaje</string>
+    <string name="informacion">Información</string>
+    <string-array name="opciones_blindaje">
+        <item>@string/si</item>
+        <item>@string/no</item>
+    </string-array>
+    <string name="title_activity_detalle_persona">DetallePersona</string>
+    <string name="title_activity_detalle_poliza">DetallePoliza</string>
+
+    <string name="eliminar">Eliminar</string>
+    <string name="positivo">Si</string>
+    <string name="negativo">No</string>
+    <string name="pregunta_eliminacion">Está seguro que desea elminar a esta persona?</string>
+    <string name="modificar">Modificar</string>
 </resources>
